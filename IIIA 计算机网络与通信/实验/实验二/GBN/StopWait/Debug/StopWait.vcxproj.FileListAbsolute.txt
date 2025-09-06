@@ -1,2 +1,0 @@
-C:\GBN\StopWait\Debug\StopWait.exe
-C:\GBN\StopWait\Debug\StopWait.pdb
