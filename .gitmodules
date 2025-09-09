@@ -73,3 +73,6 @@
 [submodule "IIIB 编译原理/21级实验_tqychy"]
 	path = IIIB 编译原理/21级实验_tqychy
 	url = https://gitee.com/tqychy/compilation-principle-experiments.git
+[submodule "IVA 系统能力培养/DBMS"]
+	path = IVA 系统能力培养/DBMS
+	url = https://gitee.com/tqychy/system-capability-develope.git
