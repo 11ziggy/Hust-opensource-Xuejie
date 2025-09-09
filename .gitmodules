@@ -1,3 +1,6 @@
 [submodule "IIA 程序设计课设/高级语言源程序格式处理工具"]
 	path = IIA 程序设计课设/高级语言源程序格式处理工具
 	url = https://gitee.com/tqychy/data_structure_work.git
+[submodule "IB 数据结构/21级数据结构实验/tqychy"]
+	path = IB 数据结构/21级数据结构实验/tqychy
+	url = https://gitee.com/tqychy/hust_data_structure_homework_experiment.git
