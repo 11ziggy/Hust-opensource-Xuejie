@@ -31,3 +31,9 @@
 [submodule "IIB 数据库系统原理/数据库实验/21级实验_tqychy"]
 	path = IIB 数据库系统原理/数据库实验/21级实验_tqychy
 	url = https://gitee.com/tqychy/hust-experiments-on-databases.git
+[submodule "IIIA 函数式编程/21级作业_tqychy"]
+	path = IIIA 函数式编程/21级作业_tqychy
+	url = https://gitee.com/tqychy/hust-functional-programming-assignment.git
+[submodule "IIIA 函数式编程/21级实验_tqychy"]
+	path = IIIA 函数式编程/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust-functional-programming-experiment
