@@ -4,3 +4,6 @@
 [submodule "IB 数据结构/21级数据结构实验/tqychy"]
 	path = IB 数据结构/21级数据结构实验/tqychy
 	url = https://gitee.com/tqychy/hust_data_structure_homework_experiment.git
+[submodule "IIA 大数据导论/大作业"]
+	path = IIA 大数据导论/大作业
+	url = https://gitee.com/tqychy/big-data-introduction.git
