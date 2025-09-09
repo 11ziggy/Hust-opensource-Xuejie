@@ -28,3 +28,6 @@
 [submodule "IIB 机器学习/21级作业_tqychy"]
 	path = IIB 机器学习/21级作业_tqychy
 	url = https://gitee.com/tqychy/machine-learning-assignment.git
+[submodule "IIB 数据库系统原理/数据库实验/21级实验_tqychy"]
+	path = IIB 数据库系统原理/数据库实验/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust-experiments-on-databases.git
