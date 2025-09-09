@@ -52,3 +52,9 @@
 [submodule "IIIA 硬件综合课设/组原课设的小组任务。"]
 	path = IIIA 硬件综合课设/组原课设的小组任务。
 	url = https://gitee.com/tqychy/hust-CompositionOfTheComputer-course-design-teamwork.git
+[submodule "IIIA 操作系统设计原理/21级作业_tqychy"]
+	path = IIIA 操作系统设计原理/21级作业_tqychy
+	url = https://gitee.com/tqychy/operating-system-assignment.git
+[submodule "IIIA 操作系统设计原理/21级实验_课设_tqychy"]
+	path = IIIA 操作系统设计原理/21级实验_课设_tqychy
+	url = https://gitee.com/tqychy/hust-operating-system-experiment.git
