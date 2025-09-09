@@ -40,3 +40,9 @@
 [submodule "IIB 计算机组成原理/组原课设小组任务_手写字母识别_tqychy"]
 	path = IIB 计算机组成原理/组原课设小组任务_手写字母识别_tqychy
 	url = https://gitee.com/tqychy/hust-CompositionOfTheComputer-course-design-teamwork.git
+[submodule "IIIA 计算机网络与通信/作业"]
+	path = IIIA 计算机网络与通信/作业
+	url = https://gitee.com/tqychy/hust_computer_network_assignment.git
+[submodule "IIIA 计算机网络与通信/实验/21级实验_tqychy"]
+	path = IIIA 计算机网络与通信/实验/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust_computer_network_experiment
