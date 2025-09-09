@@ -13,3 +13,6 @@
 [submodule "IIA Python 大数据与人工智能实践/大作业"]
 	path = IIA Python 大数据与人工智能实践/大作业
 	url = https://gitee.com/tqychy/python-homework.git
+[submodule "IIA 数字逻辑/21级实验_tqychy"]
+	path = IIA 数字逻辑/21级实验_tqychy
+	url = https://gitee.com/tqychy/digital-circuit-experiment.git
