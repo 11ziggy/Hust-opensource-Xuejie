@@ -19,3 +19,6 @@
 [submodule "IIA 算法设计与分析/作业/21 级算法作业_tqychy"]
 	path = IIA 算法设计与分析/作业/21 级算法作业_tqychy
 	url = https://gitee.com/tqychy/hust-algorithm-job.git
+[submodule "IIB 汇编语言程序设计/21级作业_tqychy"]
+	path = IIB 汇编语言程序设计/21级作业_tqychy
+	url = https://gitee.com/tqychy/assembly-language-assignment.git
