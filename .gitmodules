@@ -46,3 +46,9 @@
 [submodule "IIIA 计算机网络与通信/实验/21级实验_tqychy"]
 	path = IIIA 计算机网络与通信/实验/21级实验_tqychy
 	url = https://gitee.com/tqychy/hust_computer_network_experiment
+[submodule "IIIA 硬件综合课设/组原课设"]
+	path = IIIA 硬件综合课设/组原课设
+	url = https://gitee.com/tqychy/hust-hardware-integration-training
+[submodule "IIIA 硬件综合课设/组原课设的小组任务。"]
+	path = IIIA 硬件综合课设/组原课设的小组任务。
+	url = https://gitee.com/tqychy/hust-CompositionOfTheComputer-course-design-teamwork.git
