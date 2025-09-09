@@ -58,3 +58,6 @@
 [submodule "IIIA 操作系统设计原理/21级实验_课设_tqychy"]
 	path = IIIA 操作系统设计原理/21级实验_课设_tqychy
 	url = https://gitee.com/tqychy/hust-operating-system-experiment.git
+[submodule "IIIA 计算机视觉/21级实验_tqychy"]
+	path = IIIA 计算机视觉/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust-computer-vision-experiment.git
