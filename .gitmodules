@@ -25,3 +25,6 @@
 [submodule "IIB 汇编语言程序设计/21级实验_tqychy"]
 	path = IIB 汇编语言程序设计/21级实验_tqychy
 	url = https://gitee.com/tqychy/hust_assembly-language-experiment.git
+[submodule "IIB 机器学习/21级作业_tqychy"]
+	path = IIB 机器学习/21级作业_tqychy
+	url = https://gitee.com/tqychy/machine-learning-assignment.git
