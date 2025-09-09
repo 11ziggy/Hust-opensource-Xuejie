@@ -7,3 +7,6 @@
 [submodule "IIA 大数据导论/大作业"]
 	path = IIA 大数据导论/大作业
 	url = https://gitee.com/tqychy/big-data-introduction.git
+[submodule "IIA Python 大数据与人工智能实践/头歌的作业"]
+	path = IIA Python 大数据与人工智能实践/头歌的作业
+	url = https://gitee.com/tqychy/HUST_python_homework_on_educoder.git
