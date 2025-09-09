@@ -67,3 +67,9 @@
 [submodule "IIIB 计算机系统结构/21级实验_tqychy"]
 	path = IIIB 计算机系统结构/21级实验_tqychy
 	url = https://gitee.com/tqychy/computer-system-architecture-experiment
+[submodule "IIIB 编译原理/21级作业_tqychy"]
+	path = IIIB 编译原理/21级作业_tqychy
+	url = https://gitee.com/tqychy/hust-compilation-principles-assignment.git
+[submodule "IIIB 编译原理/21级实验_tqychy"]
+	path = IIIB 编译原理/21级实验_tqychy
+	url = https://gitee.com/tqychy/compilation-principle-experiments.git
