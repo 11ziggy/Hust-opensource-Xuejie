@@ -61,3 +61,9 @@
 [submodule "IIIA 计算机视觉/21级实验_tqychy"]
 	path = IIIA 计算机视觉/21级实验_tqychy
 	url = https://gitee.com/tqychy/hust-computer-vision-experiment.git
+[submodule "IIIB 计算机系统结构/21级作业_tqychy"]
+	path = IIIB 计算机系统结构/21级作业_tqychy
+	url = https://gitee.com/tqychy/hust-computer-system-achitecture-assignment.git
+[submodule "IIIB 计算机系统结构/21级实验_tqychy"]
+	path = IIIB 计算机系统结构/21级实验_tqychy
+	url = https://gitee.com/tqychy/computer-system-architecture-experiment
