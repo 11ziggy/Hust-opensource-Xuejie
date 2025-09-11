@@ -1,0 +1,78 @@
+[submodule "IIA 程序设计课设/高级语言源程序格式处理工具"]
+	path = IIA 程序设计课设/高级语言源程序格式处理工具
+	url = https://gitee.com/tqychy/data_structure_work.git
+[submodule "IB 数据结构/21级数据结构实验/tqychy"]
+	path = IB 数据结构/21级数据结构实验/tqychy
+	url = https://gitee.com/tqychy/hust_data_structure_homework_experiment.git
+[submodule "IIA 大数据导论/大作业"]
+	path = IIA 大数据导论/大作业
+	url = https://gitee.com/tqychy/big-data-introduction.git
+[submodule "IIA Python 大数据与人工智能实践/头歌的作业"]
+	path = IIA Python 大数据与人工智能实践/头歌的作业
+	url = https://gitee.com/tqychy/HUST_python_homework_on_educoder.git
+[submodule "IIA Python 大数据与人工智能实践/大作业"]
+	path = IIA Python 大数据与人工智能实践/大作业
+	url = https://gitee.com/tqychy/python-homework.git
+[submodule "IIA 数字逻辑/21级实验_tqychy"]
+	path = IIA 数字逻辑/21级实验_tqychy
+	url = https://gitee.com/tqychy/digital-circuit-experiment.git
+[submodule "IIA 算法设计与分析/作业/21 级算法作业_tqychy"]
+	path = IIA 算法设计与分析/作业/21 级算法作业_tqychy
+	url = https://gitee.com/tqychy/hust-algorithm-job.git
+[submodule "IIB 汇编语言程序设计/21级作业_tqychy"]
+	path = IIB 汇编语言程序设计/21级作业_tqychy
+	url = https://gitee.com/tqychy/assembly-language-assignment.git
+[submodule "IIB 汇编语言程序设计/21级实验_tqychy"]
+	path = IIB 汇编语言程序设计/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust_assembly-language-experiment.git
+[submodule "IIB 机器学习/21级作业_tqychy"]
+	path = IIB 机器学习/21级作业_tqychy
+	url = https://gitee.com/tqychy/machine-learning-assignment.git
+[submodule "IIB 数据库系统原理/数据库实验/21级实验_tqychy"]
+	path = IIB 数据库系统原理/数据库实验/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust-experiments-on-databases.git
+[submodule "IIIA 函数式编程/21级作业_tqychy"]
+	path = IIIA 函数式编程/21级作业_tqychy
+	url = https://gitee.com/tqychy/hust-functional-programming-assignment.git
+[submodule "IIIA 函数式编程/21级实验_tqychy"]
+	path = IIIA 函数式编程/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust-functional-programming-experiment
+[submodule "IIB 计算机组成原理/组原课设小组任务_手写字母识别_tqychy"]
+	path = IIB 计算机组成原理/组原课设小组任务_手写字母识别_tqychy
+	url = https://gitee.com/tqychy/hust-CompositionOfTheComputer-course-design-teamwork.git
+[submodule "IIIA 计算机网络与通信/作业"]
+	path = IIIA 计算机网络与通信/作业
+	url = https://gitee.com/tqychy/hust_computer_network_assignment.git
+[submodule "IIIA 计算机网络与通信/实验/21级实验_tqychy"]
+	path = IIIA 计算机网络与通信/实验/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust_computer_network_experiment
+[submodule "IIIA 硬件综合课设/组原课设"]
+	path = IIIA 硬件综合课设/组原课设
+	url = https://gitee.com/tqychy/hust-hardware-integration-training
+[submodule "IIIA 硬件综合课设/组原课设的小组任务。"]
+	path = IIIA 硬件综合课设/组原课设的小组任务。
+	url = https://gitee.com/tqychy/hust-CompositionOfTheComputer-course-design-teamwork.git
+[submodule "IIIA 操作系统设计原理/21级作业_tqychy"]
+	path = IIIA 操作系统设计原理/21级作业_tqychy
+	url = https://gitee.com/tqychy/operating-system-assignment.git
+[submodule "IIIA 操作系统设计原理/21级实验_课设_tqychy"]
+	path = IIIA 操作系统设计原理/21级实验_课设_tqychy
+	url = https://gitee.com/tqychy/hust-operating-system-experiment.git
+[submodule "IIIA 计算机视觉/21级实验_tqychy"]
+	path = IIIA 计算机视觉/21级实验_tqychy
+	url = https://gitee.com/tqychy/hust-computer-vision-experiment.git
+[submodule "IIIB 计算机系统结构/21级作业_tqychy"]
+	path = IIIB 计算机系统结构/21级作业_tqychy
+	url = https://gitee.com/tqychy/hust-computer-system-achitecture-assignment.git
+[submodule "IIIB 计算机系统结构/21级实验_tqychy"]
+	path = IIIB 计算机系统结构/21级实验_tqychy
+	url = https://gitee.com/tqychy/computer-system-architecture-experiment
+[submodule "IIIB 编译原理/21级作业_tqychy"]
+	path = IIIB 编译原理/21级作业_tqychy
+	url = https://gitee.com/tqychy/hust-compilation-principles-assignment.git
+[submodule "IIIB 编译原理/21级实验_tqychy"]
+	path = IIIB 编译原理/21级实验_tqychy
+	url = https://gitee.com/tqychy/compilation-principle-experiments.git
+[submodule "IVA 系统能力培养/DBMS"]
+	path = IVA 系统能力培养/DBMS
+	url = https://gitee.com/tqychy/system-capability-develope.git
